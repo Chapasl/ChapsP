@@ -75,7 +75,9 @@
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
 }
-
+.md {
+  --ion-color-primary: #222428;
+}
 @media (prefers-color-scheme: dark) {
   /*
    * Dark Colors
